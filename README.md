@@ -1,7 +1,7 @@
 # Jogo Cobrinha
 
 <p align="center">
-  <img src=""/>
+  <img src="https://media.discordapp.net/attachments/912686424497733667/932997219198582804/Screenshot_78.png?width=540&height=562"/>
 </p>
 <h1></h1>
 <div style="display: inline_block"><br>
